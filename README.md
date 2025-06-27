@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Kartik Malode
 
-<!--
-**kartikmalode/kartikmalode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.E. Information Technology Student (SPPU)  
+💻 Passionate about software development, clean UI design & building real-world applications  
+📍 Based in Nashik, Maharashtra
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💻 **Languages:** Java, C, C++, JavaScript  
+- 🌐 **Web:** HTML, CSS, Bootstrap  
+- 🛢️ **Database:** MySQL  
+- 📦 **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📂 Projects
+### 📝 Quora Post Clone
+Built with HTML, CSS, JavaScript, and REST APIs to support CRUD operations.
+
+### 🎵 Spotify UI Clone
+A responsive frontend interface replicating Spotify using only HTML and CSS.
+
+---
+
+## 💼 Internship
+**Programming Intern @ Talent Battle**  
+Worked on Data Structures & Algorithms in C++, solved problems, and improved logic building.
+
+
+## 🌱 Currently Learning
+React.js • Node.js • API Integration
+
+
+
+## 🚀 Goal
+To work in a dynamic software development role where I can learn, contribute, and grow.
+
+
+
+## 📫 Contact
+- **Email:** kartikmalode03@gmail.com  
+- **GitHub:** [github.com/kartikmalode](https://github.com/kartikmalode)  
+- **LinkedIn:** [linkedin.com/in/kartik-malode-131467233](https://www.linkedin.com/in/kartik-malode-131467233/)  
+
+
+
+
+_💬 Let’s connect and build something awesome together!_
